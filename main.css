@@ -1,0 +1,20 @@
+/* @import url("styles/reset.css"); */
+@import url("styles/header.css");
+
+body{
+    background-color: #F5F5F5;
+    font-family: 'Raleway';
+    line-height: 1;
+    color: #464646;
+    overflow-x: hidden;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; Añade esto para centrar verticalmente también */
+  }
+  
+  /* Estilos adicionales para otros elementos dentro de main si es necesario */
+  
